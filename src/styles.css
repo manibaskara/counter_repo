@@ -1,4 +1,14 @@
 .App {
   font-family: sans-serif;
-  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  background-color: rebeccapurple;
+  border: none;
+  color: white;
+  padding: 4px;
+  margin-top: 8px;
 }
